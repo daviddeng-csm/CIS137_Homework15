@@ -26,9 +26,9 @@ struct ContentView: View {
     
     @State private var drinkItems: [MenuItem] = [
         MenuItem(name: "Coffee"),
-        MenuItem(name: "Juice"),
-        MenuItem(name: "Smoothie"),
-        MenuItem(name: "Tea")
+        MenuItem(name: "Tea"),
+        MenuItem(name: "Apple cider"),
+        MenuItem(name: "Water")
     ]
     
     var body: some View {
@@ -59,7 +59,7 @@ struct ContentView: View {
                         Button(action: {
                             selectHealthy(for: item)
                         }) {
-                            Label("Make it Healthy", systemImage: "leaf")
+                            Label("Make it Vegatarian", systemImage: "leaf")
                         }
                     }
                 }
