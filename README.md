@@ -1,9 +1,9 @@
 # Homework 15 - Context Menu Demo
 
-## Student Information
+## Assignment Details
+- **Assignment**: Homework 15 - Context Menu Implementation
 - **Student**: David Deng  
 - **Date**: November 26, 2025  
-- **Assignment**: Homework 15 - Context Menu Implementation
 
 ## App Description
 A SwiftUI app demonstrating context menu functionality with two tabs:
@@ -29,4 +29,6 @@ A SwiftUI app demonstrating context menu functionality with two tabs:
 - State management for menu selections
 
 ## Video Demo
-[Insert link to your screen recording here]
+
+[![Homework 15 Demo](https://img.youtube.com/vi/55ndevmp930/0.jpg)](https://youtube.com/watch?v=55ndevmp930)
+- Homework 15 Demo
